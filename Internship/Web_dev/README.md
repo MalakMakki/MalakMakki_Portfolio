@@ -1,4 +1,4 @@
-1️- Web Development Project
+Web Development Project
 
 Develop a full stack website of a Telecommunications Company using the .net framework.
 Incorporate HTML, CSS for the front-end and utilize Angular and C# for the server side.
